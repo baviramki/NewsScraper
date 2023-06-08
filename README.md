@@ -40,3 +40,6 @@ pip3 install urllib3
 
 3. To scrape nytimes.com
 ```python3 nyt.py```
+
+# **Sample Output:**
+Check the sample output [here](https://github.com/baviramki/NewsScraper/tree/main/Output)
